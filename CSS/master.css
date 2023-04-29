@@ -644,10 +644,11 @@ body {
         gap: 10px;
     }
     .f-box, .s-box, .t-box {
-        padding: 30px;
+        padding: 30px 20px;
     }
     .project-card .container {
         width: 95%;
+        padding: 30px 25px;
     }
     .project-card .container .card .inner-card {
         flex-direction: column;
